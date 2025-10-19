@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class Orderdingsystem {
-  public static void main(Stringp[] args){
+public class Orderingsystem {
+  public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
   }
 }
